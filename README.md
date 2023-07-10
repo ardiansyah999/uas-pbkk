@@ -1,5 +1,6 @@
 # uas-pbkk
-
+Nama : Muhammad Ardiansyah
+NPM : 213510595
 ## Project setup
 ```
 npm install
